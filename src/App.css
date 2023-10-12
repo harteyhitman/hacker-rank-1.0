@@ -114,7 +114,7 @@ html{
 }
 .getlinked-container {
   position: relative;
-  z-index: -99;
+  z-index: 99;
   border-bottom: 0.5px solid #29233b;
 }
 .getlinked {
