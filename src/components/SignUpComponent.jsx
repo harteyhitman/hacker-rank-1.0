@@ -132,7 +132,7 @@ function SignIn() {
             value="policy"
             required
           />
-          <label for="vehicle1">
+          <label htmlFor="vehicle1">
             I agreed with the event terms and conditions and privacy policy
           </label>
         </div>
