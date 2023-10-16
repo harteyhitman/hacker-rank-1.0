@@ -1,4 +1,4 @@
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   @font-face {
     font-family: clashdisplay;
     src: url(./Assets/ClashDisplay-Bold.otf);
@@ -267,7 +267,7 @@
 .timeline-header p{
   font-size: 12px;
 }
-@media (max-width: 450px) {
+@media (max-width: 490px) {
   body{
     background-image: url('./Assets/backgroundstar.png');
     background-size: contain;
