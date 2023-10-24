@@ -8,7 +8,7 @@ const CountdownTimer = () => {
     seconds: 0
   });
 
-  const targetDate = useMemo(() => new Date('2023-10-23T00:00:00Z'), []); // Memoize the targetDate
+  const targetDate = useMemo(() => new Date('2023-12-23T00:00:00Z'), []); // Memoize the targetDate
 
   useEffect(() => {
     const calculateRemainingTime = () => {
