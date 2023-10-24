@@ -28,6 +28,7 @@
     /* background: linear-gradient(to right, #170e2a, #2d0b56, #160e2c, #150e2a); */
     background-blend-mode: luminosity;
     display: flex;
+    align-items: center;
     justify-content: space-between;
     padding: 30px 30px;
     color: #fff;
